@@ -1,5 +1,9 @@
 # Employee Performance Analytics
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## 📌 Project Overview
 
 This project presents an interactive Power BI dashboard designed to analyze employee performance and productivity. It enables managers to monitor KPIs, evaluate individual and team performance, and make data-driven decisions to improve operational efficiency.
