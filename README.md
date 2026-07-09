@@ -1,18 +1,18 @@
 # Employee Performance Analytics
 
-## Project Overview
+## 📌 Project Overview
 
-This project analyzes employee productivity and operational performance using Power BI. The dashboard helps managers monitor KPIs, identify high-performing employees, track SLA compliance, and improve overall team efficiency.
-
----
-
-## Business Problem
-
-Organizations often struggle to monitor employee productivity across multiple performance indicators. This dashboard provides a centralized view of employee performance to support data-driven decision-making.
+This project presents an interactive Power BI dashboard designed to analyze employee performance and productivity. It enables managers to monitor KPIs, evaluate individual and team performance, and make data-driven decisions to improve operational efficiency.
 
 ---
 
-## Tools Used
+## 🎯 Business Problem
+
+Organizations need a centralized way to monitor employee productivity, SLA compliance, and task completion. This dashboard provides actionable insights into workforce performance and highlights areas for improvement.
+
+---
+
+## 🛠️ Tools & Technologies
 
 - Power BI
 - Microsoft Excel
@@ -21,23 +21,22 @@ Organizations often struggle to monitor employee productivity across multiple pe
 
 ---
 
-## Dashboard Features
+## 📊 Dashboard Features
 
 - Total Employees
 - Average Productivity
 - SLA Compliance
 - Task Completion Rate
-- Productivity by Employee
-- Department Performance
-- Employee Comparison
+- Top 10 Employees
+- Department-wise Performance
 - KPI Cards
 - Interactive Filters
 
 ---
 
-## Dataset
+## 📂 Dataset
 
-The dataset contains employee-level operational metrics including:
+The dataset contains:
 
 - Employee Name
 - Department
@@ -48,25 +47,25 @@ The dataset contains employee-level operational metrics including:
 
 ---
 
-## Key Insights
+## 💡 Key Insights
 
 - Identified top-performing employees.
-- Compared departmental productivity.
-- Measured SLA adherence.
-- Highlighted productivity trends.
-- Enabled performance monitoring using interactive dashboards.
+- Compared productivity across departments.
+- Measured SLA compliance.
+- Tracked task completion trends.
+- Enabled interactive performance monitoring.
 
 ---
 
-## Files Included
+## 📁 Files Included
 
-- Employee_Performance_Analytics.pbix
-- Employee_Performance_Data.xlsx
-- Employee_Performance_Analytics.pdf
+- Employee_Performance.pbix
+- Employee_Performance.xlsx
+- Project_Report.pdf
 
 ---
 
-## Author
+## 👩‍💻 Author
 
 **Sushma Rakesh**
 
